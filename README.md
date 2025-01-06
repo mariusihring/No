@@ -1,4 +1,6 @@
-Home to all my stuff
+# Nō
+
+## Home to all my stuff
 
 - crypto stuff
 - notes
